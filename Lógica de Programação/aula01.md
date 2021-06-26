@@ -33,7 +33,7 @@ Após resolvido, faça um exercício de Abstração da sua resolução. É poss�
 
 ---
 
-### Resolução
+### Respostas
 
 Sabemos que a média é a soma de todos os valores de um intervalo, dividido pela quantidade de valores dentro deste intervalo.
 
