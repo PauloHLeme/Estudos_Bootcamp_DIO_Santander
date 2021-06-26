@@ -62,7 +62,8 @@ Boa parte da programação é baseada nas tomadas de decisões, quando algo só 
 
 ### Exemplos
 
-![Exemplo de condição de média](#)
+![Exemplo de condição de média](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/Imagens/fluxograma_vendas.png)
+![Exemplo de condição de venda via cartões](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/Imagens/compras_via_cartao.png)
 
 ## Exercício
 
@@ -72,4 +73,4 @@ Após isso, vai verificar se a média das vendas foi superior que R$5000,00. Cas
 ---
 ## Resposta
 
-![Resposta do exercício de Abono](#)
+![Resposta do exercício de Abono](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/Imagens/fluxograma_vendas.png)
