@@ -34,4 +34,4 @@ Vamos utilizar aquele exercício das médias e utilizar a concatenação. Pergun
 ---
 ## Resposta
 
-![solução da atividade](#)
+![solução da atividade](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/Imagens/fluxograma_soma_medias_concatenacao.png)
