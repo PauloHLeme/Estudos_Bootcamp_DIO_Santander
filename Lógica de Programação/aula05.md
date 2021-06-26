@@ -31,6 +31,7 @@ Vale ficar atento também para os espaços. Ao colocar uma variável na concaten
 ## Exercício
 
 Vamos utilizar aquele exercício das médias e utilizar a concatenação. Pergunte o nome do aluno, peça as notas que ele tirou, e exiba uma frase pra ele, falando qual a média que o aluno tirou.
+
 ---
 ## Resposta
 
