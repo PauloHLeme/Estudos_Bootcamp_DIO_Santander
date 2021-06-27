@@ -5,7 +5,7 @@ _anotações por **Paulo Henrique Leme**_
 
 ## O que é concatenação?
 
-COncatenação é um termo usado em computação para designar a operação de unir o conteúdo de duas strings.
+Concatenação é um termo usado em computação para designar a operação de unir o conteúdo de duas strings.
 
 >Relembrando, string é uma sequência de caracteres, seja uma frase que você quer que o computador exiba ou uma variável que precise ser exibida juntamente com algo.
 
