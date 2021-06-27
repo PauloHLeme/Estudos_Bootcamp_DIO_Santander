@@ -1,4 +1,4 @@
-# Aula 09 - Laõs de Repetição
+# Aula 09 - Laços de Repetição
 
 _aula ministrada por **Professor Denilson Bonatti**_
 _anotações por **Paulo Henrique Leme**_
