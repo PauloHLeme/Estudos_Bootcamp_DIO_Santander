@@ -3,22 +3,23 @@ programa
 	
 	funcao inicio()
 	{
-		real jan, fev, mar, abr
+		real jan, fev, mar, abr, soma, media
 
-		escreva("Digite o nome do aluno:")
-		leia(aluno)
-		escreva("Digite a nota 1:")
-		leia(nota1)
-		escreva("Digite a nota 2:")
-		leia(nota2)
-		escreva("Digite a nota 3:")
-		leia(nota3)
-		escreva("Digite a nota 4:")
-		leia(nota4)
+		escreva("Insira o valor das vendas do mês de Janeiro:")
+		leia(jan)
+		escreva("Insira o valor das vendas do mês de Fevereiro:")
+		leia(fev)
+		escreva("Insira o valor das vendas do mês de Março:")
+		leia(mar)
+		escreva("Insira o valor das vendas do mês de Abril:")
+		leia(abr)
 
-		media = (nota1+nota2+nota3+nota4)/4
+		soma = jan+fev+mar+abr
+		media = soma/4
 
-		escreva("A média do aluno " + aluno + " é " + media + ".")
+		escreva("Você vendeu um total de R$" + soma +
+		" nesse quadrimestre, mantendo uma média de R$" +
+		media)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -26,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 63; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
