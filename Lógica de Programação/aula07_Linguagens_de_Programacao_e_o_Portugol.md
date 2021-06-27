@@ -1,4 +1,4 @@
-# Aula 06 - Estrutura de Repetição
+# Aula 07 - Linguagens de Programação
 
 _aula ministrada por **Professor Denilson Bonatti**_
 _anotações por **Paulo Henrique Leme**_

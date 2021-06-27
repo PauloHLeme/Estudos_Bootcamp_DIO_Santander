@@ -1,3 +1,5 @@
+//Função do Algoritmo: Calcular média aritmética
+//Autor: Paulo Leme, baseado na aula de Denilson Bonatti
 programa
 {
 	
@@ -19,7 +21,18 @@ programa
 
 		media = (nota1+nota2+nota3+nota4)/4
 
-		escreva("A média do aluno " + aluno + " é " + media + ".")
+		
+		escreva("A média do aluno " + aluno + " é "+
+		media + "." + "\n" )
+
+		//verifica se a média é maior ou igual a sete
+		se(media>=7){
+			escreva ("Parabéns, você foi aprovado!")
+		}
+		//caso a média seja menor que 7
+		senao {
+			escreva("Infelizmente você foi reprovado.")
+		}
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -27,7 +40,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 418; 
+ * @POSICAO-CURSOR = 748; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

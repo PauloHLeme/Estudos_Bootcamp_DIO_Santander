@@ -1,6 +1,7 @@
 # Aula 03 - Fluxograma e Variáveis
 
-_por **Professor Denilson Bonatti**_
+_aula ministrada por **Professor Denilson Bonatti**_
+_anotações por **Paulo Henrique Leme**_
 
 ## O que é Fluxograma?
 

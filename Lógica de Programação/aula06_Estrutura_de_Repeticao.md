@@ -1,6 +1,7 @@
 # Aula 06 - Estrutura de Repetição
 
-_por **Professor Denilson Bonatti**_
+_aula ministrada por **Professor Denilson Bonatti**_
+_anotações por **Paulo Henrique Leme**_
 
 ## Estrutura de repetição
 

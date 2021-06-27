@@ -1,6 +1,7 @@
 # Aula 04 - Tomadas de decisão e expressões
 
-_por **Professor Denilson Bonatti**_
+_aula ministrada por **Professor Denilson Bonatti**_
+_anotações por **Paulo Henrique Leme**_
 
 ## Expressões aritméticas
 

@@ -1,6 +1,7 @@
 # Aula 05 - Concatenação
 
-_por **Professor Denilson Bonatti**_
+_aula ministrada por **Professor Denilson Bonatti**_
+_anotações por **Paulo Henrique Leme**_
 
 ## O que é concatenação?
 

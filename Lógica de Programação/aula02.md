@@ -1,6 +1,7 @@
 # Aula 02 - O que são algoritmos e pseudocódigo
 
-_por **Professor Denilson Bonatti**_
+_aula ministrada por **Professor Denilson Bonatti**_
+_anotações por **Paulo Henrique Leme**_
 
 ## O que é algoritmo?
 
