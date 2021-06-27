@@ -61,7 +61,7 @@ Quando escrevemos programas, geralmente ocorre a necessidade de decdir o que faz
 
 Boa parte da programação é baseada nas tomadas de decisões, quando algo só acontece se uma condição for atendida ou não, **verdadeira** ou **falsa**.
 
-### Exemplos
+### Exemplo
 
 ![Exemplo de condição de venda via cartões](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/compras_via_cartao.png)
 
