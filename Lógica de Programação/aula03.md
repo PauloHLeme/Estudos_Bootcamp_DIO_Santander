@@ -74,4 +74,4 @@ Criar um fluxograma recebendo as quatro notas, exibir o total da soma e calcular
 ---
 ## Respostas
 
-![solucaodaatividade](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/Imagens/fluxograma_soma_medias.png)
+![solucaodaatividade](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_soma_medias.png)
