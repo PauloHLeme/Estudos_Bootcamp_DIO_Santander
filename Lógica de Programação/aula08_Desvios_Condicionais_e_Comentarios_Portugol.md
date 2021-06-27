@@ -88,6 +88,7 @@ programa
 
 			caso 4: //testa se valor é igual a 4
 			escreva("Saindo...")
+            pare
 
 			caso contrario: //caso não seja qualquer outro valor
 			escreva("Voce deve escolher entre as opções 1, 2  ou 3.")

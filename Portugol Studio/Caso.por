@@ -23,6 +23,7 @@ programa
 
 			caso 4: //testa se valor é igual a 4
 			escreva("Saindo...")
+			pare
 			
 			caso contrario: //caso não seja qualquer outro valor
 			escreva("Voce deve escolher entre as opções 1, 2  ou 3.")
@@ -34,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 0; 
+ * @POSICAO-CURSOR = 536; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
