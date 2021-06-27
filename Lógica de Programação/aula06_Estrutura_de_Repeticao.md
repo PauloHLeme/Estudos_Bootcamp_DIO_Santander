@@ -18,4 +18,4 @@ Vamos tentar exibir a tabuada do 9 utilizando uma estrutura de repetição?
 ---
 ## Resposta
 
-![Tabuada do 9](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/Imagens/tabuada_do_nove.png)
+![Tabuada do 9](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/tabuada_do_nove.png)
